@@ -1,0 +1,15 @@
+{
+  "name": "pw",
+  "version": "0.0.1",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "playwright test"
+  },
+  "author": "vssmirnova",
+  "license": "ISC",
+  "devDependencies": {
+    "@playwright/test": "^1.40.1",
+    "playwright": "^1.40.1"
+  }
+}
